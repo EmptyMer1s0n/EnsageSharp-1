@@ -1,4 +1,4 @@
-﻿namespace UrsaRage
+﻿nameX UrsaRage
 {
     internal class Program
     {
